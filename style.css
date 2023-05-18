@@ -1,0 +1,37 @@
+/* styles for the headers and using google font*/
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+
+/* styles for back to top button*/
+.back-to-top {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 5px 5px; 
+  }
+/* size for footer icons */
+  .footer-icons {
+    font-size: 30px; 
+  }
+
+/* styles for hobbies to display like a grid*/
+  .hobby-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    justify-content: center;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .hobby-item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+  
+
+
+
+  
+
+  
