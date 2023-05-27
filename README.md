@@ -15,7 +15,8 @@ MyCV is a personal CV repository where I showcase my professional and personal s
 Follow the steps below to install, configure, and get the project running locally on your system.
 
 ```bash
-Copy code
+# Copy the following code in your terminal
+
 # Clone the repository
 git clone https://github.com/M311HAN/MyCV.git
 
