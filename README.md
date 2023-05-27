@@ -6,9 +6,9 @@ MyCV is a personal CV repository where I showcase my professional and personal s
 
 ## Table of Contents
 
-Installation
-Usage
-Credits
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
 
 ## Installation
 
