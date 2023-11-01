@@ -1,5 +1,7 @@
 # MyCV
 
+[Check out the live site here!](https://m311han.github.io/MyCV/#)
+
 ## Description
 
 MyCV is a personal CV repository where I showcase my professional and personal self. It provides a detailed overview of my work experience, educational background, hobbies, and contact information. The CV is primarily designed for potential employers, collaborators, and anyone interested in knowing more about my professional journey. It also includes social media icons, making it easier to find and connect with me on various social media platforms.
