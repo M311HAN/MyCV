@@ -1,6 +1,7 @@
 # MyCV
+[Check out the live site here hosted with Netlify!](https://melresume.netlify.app)
 
-[Check out the live site here!](https://m311han.github.io/MyCV/#)
+[Check out the live site here hosted with Github pages!](https://m311han.github.io/MyCV/#)
 
 ## Description
 
